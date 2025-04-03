@@ -24,9 +24,7 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
  •	Education & Certifications: Comprehensive list of academic achievements and professional certifications
  
  •	Interactive Navigation: Dropdown menus for easy access to projects and sections
- 
- •	Contact Form: Direct communication with a clickable form where you get InTouch with me
- 
+
  •	CV Download: Option to download my resume for detailed professional information
 
  .  Contact Form - Allows visitors to send a message via email.
@@ -40,7 +38,7 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
   
   •	index.html - Main content structure
   
-  •	CSS/stylesheet.css - Styling rules and responsive design
+  •	CSS/styles.css - Styling rules and responsive design
   
   •	images/ - Directory containing project images and profile photo
   
