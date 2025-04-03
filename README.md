@@ -5,7 +5,7 @@
 A personal portfolio website showcasing my data analysis projects, skills, and professional experience.
 
 
-  📋 Overview
+  📋 ABOUT OVERVIEW
   
 This portfolio is a responsive website that highligts intrests of an aspiring Full-Stalk Web Developer. It has information of a individual with a Diploma in ICT but is aspiring to Specialize in Web Development The site features my educational background, technical skills, some projects though not many, and contact information.
 
