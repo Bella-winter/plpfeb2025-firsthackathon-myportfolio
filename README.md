@@ -12,9 +12,9 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
 
    🛠️ Built With
    
-   •	HTML5
+   •	HTML5: For structuring the content.
   
-   •	CSS3
+   •	CSS3: For styling and layout.
 
 
    ✨ Features
@@ -28,6 +28,11 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
  •	Contact Form: Direct communication with a clickable form where you get InTouch with me
  
  •	CV Download: Option to download my resume for detailed professional information
+
+ .  Contact Form - Allows visitors to send a message via email.
+
+.   Footer - Includes copyright information and social media links.
+
 
 
   🧰 Project Structure
@@ -60,11 +65,44 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
 
    🔄 Setup and Installation
    
-  1.	Clone the repository: git clone https://github.com/priscillanzula/portfolio.git
+  1.	Clone the repository: git clone 
      
   2.	Navigate to the project directory: cd portfolio
     
   3.	Open index.html in your browser
+
+# 🌟File Structure
+
+portfolio/
+│── index.html          # Main HTML file
+│── styles.css          # External CSS file
+│── images/             # Folder for images (e.g., profile picture)
+│── README.md           # Project documentation
+
+# 🌟How to Use🚀
+
+
+Click on navigation links to jump to different sections.
+
+View projects and visit their GitHub links.
+
+Download the CV from the Education section.
+
+Use the Contact Form button to open and fill out the form.
+
+Future Enhancements
+
+Add JavaScript for form validation.
+
+Implement a backend to store contact form submissions.
+
+Improve responsiveness for mobile users.
+
+Footer
+
+The footer includes:
+
+Copyright Information
    
 
  ✍️✍️AUTHOR
