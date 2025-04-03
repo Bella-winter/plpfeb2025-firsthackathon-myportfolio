@@ -8,8 +8,8 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
 
 
    🛠️ Built With
-•	HTML5
-•	CSS3
+  •	HTML5
+  •	CSS3
 
 
    ✨ Features
