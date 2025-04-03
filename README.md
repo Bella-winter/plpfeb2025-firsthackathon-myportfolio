@@ -11,12 +11,14 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
 
 
    🛠️ Built With
+   
    •	HTML5
   
    •	CSS3
 
 
    ✨ Features
+   
  •	Skills Section: Details programming languages and technical interests
  
  •	Education & Certifications: Comprehensive list of academic achievements and professional certifications
@@ -29,6 +31,7 @@ This portfolio is a responsive website that highligts intrests of an aspiring Fu
 
 
   🧰 Project Structure
+  
   
   •	index.html - Main content structure
   
